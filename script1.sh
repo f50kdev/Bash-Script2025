@@ -5,4 +5,5 @@
         echo "what is your name"
             echo "$I hope are u enjoying Mr $name"
 
+        ls 
 
